@@ -7,6 +7,7 @@ import {
 import { AppWindowIcon, DatabaseIcon, ServerIcon } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
+import { Dialog } from "@/components/ui/dialog";
 
 export const TechnicalArsenal = () => (
   <div className="flex flex-col gap-8 px-16 py-48">
